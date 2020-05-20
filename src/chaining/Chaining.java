@@ -41,8 +41,9 @@ public class Chaining {
             tmp = tmp.ileri;
         }
     }
+
     public static void main(String[] args) {
-       
+
     }
 
 }
